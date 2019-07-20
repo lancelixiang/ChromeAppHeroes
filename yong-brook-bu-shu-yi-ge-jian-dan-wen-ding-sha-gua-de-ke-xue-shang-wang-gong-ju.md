@@ -2,7 +2,7 @@
 - Brook是一个跨平台的代理/ VPN软件, 软件的目标是保持简单,傻瓜, 无感知.
 - Brook部署和使用比ss更简单, 如果ss某天挂了, 可以用Brook作为替代品.
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-5605df13e403fe98.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/400b6c393df448428973df595435950f.png)
 
 
 ## 准备工作
@@ -17,12 +17,12 @@ su
 ```
 - 在根目录下新建文件夹`my_brook`,并将brook下载到文件夹内
 ```
-cd / 
+cd /
 mkdir my_brook
-cd my_brook 
+cd my_brook
 wget https://github.com/txthinking/brook/releases/download/v20181212/brook
 ```
-> ![](https://upload-images.jianshu.io/upload_images/3203841-9448ce3c2f497449.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/d041120e80364cc5b79eead72f3b9aa7.png)
 
 ## 开启服务
 
@@ -34,7 +34,7 @@ chmod 777 brook
 # 以非阻塞方式开启服务(比较推荐)
 ./brook server -l :9999 -p password /dev/null 2>&1 &
 ```
-> ![](https://upload-images.jianshu.io/upload_images/3203841-0a77ee94d33ef101.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/7515538692f9495a8e01900590aa9060.png)
 
 ## 用客户端登录
 - 下载客户端
@@ -44,25 +44,25 @@ Mac客户端下载:https://github.com/txthinking/brook/releases/download/v201812
 IOS客户端下载(你可能需要美国区账户): https://itunes.apple.com/us/app/brook-brook-shadowsocks-vpn-proxy/id1216002642
 
 - 填写登录信息
-> ![](https://upload-images.jianshu.io/upload_images/3203841-66b5247145029dc4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/e8af9af693184fceb920c1f57344c8e8.png)
 - 右击任务栏图标选择start
-> ![](https://upload-images.jianshu.io/upload_images/3203841-8ccec462d28867ba.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/e6c3812831cd4650996e0da0a4a0e450.png)
 
-> ![ios版本登录](http://upload-images.jianshu.io/upload_images/3203841-fe7ec1c34bca96a6.jpg)
+> ![ios版本登录](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/ca60464f37b34df2a4f1f761595344d2.jpeg)
 
 
 
 
 - 可以愉快的上网了
-> ![](https://upload-images.jianshu.io/upload_images/3203841-203a274b85d48b26.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/c04cf3ae3fe949f1acdef86e4f89d7e9.png)
 
-> ![ios查看youtube](http://upload-images.jianshu.io/upload_images/3203841-b3d05eaf0e9fdad1.jpg)
+> ![ios查看youtube](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/502d4d4260e442cd9a9f40c5d339d8a8.jpeg)
 
 
 
 > 如果你想让自己的服务更稳定一些, 可以继续往下读
 ## 先结束刚刚创建的进程
-> ![](https://upload-images.jianshu.io/upload_images/3203841-7020f0c66da36544.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/a56fa2eb49b240529d14cb26e1918933.png)
 
 ## 安装守护进程pm2
 ```
@@ -86,9 +86,9 @@ vi start_brook.sh
 ```
 pm2 start start_brook.sh
 ```
-> ![](https://upload-images.jianshu.io/upload_images/3203841-e185ffdc46273745.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/b16a55e37cd848c395f437aea6056f42.png)
 
->  大功告成! 现在可以稳定的访问服务了, 即使brook服务端程序挂掉了, pm2也会自动重启brook服务端程序
+> 大功告成! 现在可以稳定的访问服务了, 即使brook服务端程序挂掉了, pm2也会自动重启brook服务端程序
 
 ## 相关问题:
 
@@ -97,7 +97,7 @@ pm2 start start_brook.sh
 ```
 pm2 list
 ```
-> ![](https://upload-images.jianshu.io/upload_images/3203841-73829862208172ed.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/4f5f769a86ec4ffc8ba98c0e123d3420.png)
 
 - 如何关闭brook服务端进程
 
@@ -105,15 +105,15 @@ pm2 list
 pm2 delete start_brook
 ```
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-cad2641c6c552b5a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/89f330fcfec14057adf808ee2e15be41.png)
 
 ## 愉快的访问谷歌和油管吧~
-> ![](https://upload-images.jianshu.io/upload_images/3203841-1350dc7b204001ef.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-> ![](https://upload-images.jianshu.io/upload_images/3203841-fa9c64fbee8f97ed.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/37139eabd9f7493580abf64e06aa76a6.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/7eaae3ed9ac54fe2a56b146996c16a82.png)
 
 
 ## 小结:
-Brook是一个蛮好用的工具, 不需要ss复杂的部署过程, 开箱即用, 配合pm2可以提供非常稳定的服务, 如果自己想搭建科学上网服务, 可以试试Brook!  
+Brook是一个蛮好用的工具, 不需要ss复杂的部署过程, 开箱即用, 配合pm2可以提供非常稳定的服务, 如果自己想搭建科学上网服务, 可以试试Brook!
 
 
 ---

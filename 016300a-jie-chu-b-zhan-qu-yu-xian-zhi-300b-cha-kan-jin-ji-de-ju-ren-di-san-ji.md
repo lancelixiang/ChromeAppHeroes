@@ -1,8 +1,8 @@
 ## 在B站, 即使开了大会员, 也总有一些刷不到的视频
-> ![](https://upload-images.jianshu.io/upload_images/3203841-baebff1c8de070c3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-> ![](https://upload-images.jianshu.io/upload_images/3203841-477422d7d93c6fb2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/e3b1434ed6164584b5b14106a3145ace.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/d290981019d54a7f8973989ed8e7f754.png)
 - 打开超链接后的画面
-> ![](https://upload-images.jianshu.io/upload_images/3203841-a2fef2e7ad2c55c4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/27e7116f4aae4829a7e80ba5a051ed6b.png)
 
 ## 解决方法
 
@@ -10,18 +10,18 @@
 
 - 然后安装油猴插件 `解除B站区域限制`
 > 插件地址 https://greasyfork.org/zh-CN/scripts/25718-%E8%A7%A3%E9%99%A4b%E7%AB%99%E5%8C%BA%E5%9F%9F%E9%99%90%E5%88%B6
-> ![](https://upload-images.jianshu.io/upload_images/3203841-38b93bc72764ad33.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/2c9ed35fdb3447c8b9929cac8a02d145.png)
 
 - 安装此脚本
-> ![](https://upload-images.jianshu.io/upload_images/3203841-36dc34152239d54a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/d24f491ead734fc890fe69f4a945cfcd.png)
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-76de9d05e04145c3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/b7ccaa16860448d0a6a630ff37eefdab.png)
 
 - 打开超链接https://www.bilibili.com/bangumi/play/ep234658 (进击的巨人第三季) 授权脚本
-> ![](https://upload-images.jianshu.io/upload_images/3203841-ef4a258ee3f30c8e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-> ![](https://upload-images.jianshu.io/upload_images/3203841-161d64261bb942bc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/66328cbf4a954bb996239c991b2f8203.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/d1ae9442e3994b4f935502bdbf5f16fe.png)
 - 成功
-> ![](https://upload-images.jianshu.io/upload_images/3203841-a0b32fda54ad0f4c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/de9242ae504e410cb978890cdad7d827.png)
 
 #### 油猴脚本下载地址:
 

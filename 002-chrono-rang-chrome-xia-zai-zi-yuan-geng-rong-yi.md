@@ -1,23 +1,33 @@
 众所周知, chrome原生的下载功能并不好用, 以查看下载任务为例, 我们需要点击两次(点击右上角 **三个点** , 点击**下载内容**) 才能查看当前的任务
-> ![](https://upload-images.jianshu.io/upload_images/3203841-9148044af050bce0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/f720059371014ee6ba1da7af9d29a10f.png)
 而使用了chrono, 只需要点击一次
-> ![](https://upload-images.jianshu.io/upload_images/3203841-4a1fe4f8fd059f77.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/f15a6a6dcc6c4fc2af074138805cd6b2.png)
 
 ## chrono还集成了一些超赞的功能, 可以按照"资源大小", 进行嗅探过滤!
 > chrono可以对浏览器可见的页面进行**资源嗅探**, 并批量下载静态资源, 相当于爬虫,如果你是一个设计师, 对批量下载图片情有独钟, 又懒得写爬虫程序, 这个"资源嗅探"的功能或许能提升你下载图片的效率
-> ![](https://upload-images.jianshu.io/upload_images/3203841-15f7dbc3886ce27a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/5713085dce85442388def379cda874e9.png)
+
 ### 以抓取behance的图片为例
 - 切换至资源嗅探器
-> ![](https://upload-images.jianshu.io/upload_images/3203841-f8b511543fc16bd6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/f4cff877fa2c452281130ef92524aa97.png)
+
 - 按照图片的空间尺寸, 过滤图片
-> ![](https://upload-images.jianshu.io/upload_images/3203841-2763cff64d85b343.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/205a8b85047648fe9ff2ded77829748b.png)
+
 > - 如果你的页面为懒加载(网页根据用户鼠标的滚动, 动态加载图片), 嗅探器会根据页面加载图片数量的变化, 自动添加新图片到嗅探列表
 > - 过滤文件的尺寸可以设置的稍微大一些(比如200kb以上), 这样可以筛选出, 质量较高的图片
 - 批量勾选需要下载的图片, 开始下载
-> ![](https://upload-images.jianshu.io/upload_images/3203841-89ba4a1e7fb5bc2b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/0f66d37422c044f1ae9aefb61f3a3753.png)
+
 > 可以批量勾选图片, 也可单独勾选图片, 如果你懂正则, 还可以添加正则表达式来过滤图片(正则一般是留给程序员玩的...)
 - 批量下载成功的图片
-> ![](https://upload-images.jianshu.io/upload_images/3203841-25db204baabcdf2c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/dc89d5f5bc834980af5943dbd871ea1e.png)
+
 > 建议适当提高过滤图片尺寸的标准, 获得尺寸更大, 质量更高的图片(以上展示的图片筛选条件为大于200kb)
 
 

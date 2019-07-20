@@ -1,4 +1,4 @@
-- 对于一个前端程序员,  你可以通过打开开发者工具, 查看网站源码, 进而了解网站的技术细节, 但效率不高, 而且可能会漏掉一些技术.
+- 对于一个前端程序员, 你可以通过打开开发者工具, 查看网站源码, 进而了解网站的技术细节, 但效率不高, 而且可能会漏掉一些技术.
 - 分析网站的工具有很多, 但质量良莠不齐, 有的是版本陈旧, 很少维护, 无法识别新的技术, 有的则是受平台限制, 只有windows可用...
 - 既然是分析网站的工具, 那工具本身最好和浏览器绑定, 当看到某个感兴趣网站的时候, 可以一键分析
 
@@ -7,23 +7,23 @@
 
 - 这里先用简书jianshu.com试试水
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-3f1317d761c858ca.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/129438a1f42348739f846d45321676c4.png)
 > - 简书使用webpack做打包, 也使用了VueJS, jQuery, Monment JS等技术
 
 - 看看vue的官网用了什么技术
-> ![](https://upload-images.jianshu.io/upload_images/3203841-6383160f976c8182.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/16635272913343f8937943aaeda13dfd.png)
 - 看看facebook用了什么技术
-> ![](https://upload-images.jianshu.io/upload_images/3203841-84af6226625f2303.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/4f037040621341e8a282fe9ba762379e.png)
 
 ## 详细了解相关技术
 如果你需要详细了解某个技术, 可以通过whatruns快速调转到相关技术的官网
-> ![](https://upload-images.jianshu.io/upload_images/3203841-75655554f6fd1cb2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/e5597c1ee3af41c0a52d67eb9ac417e2.png)
 同样的,你也可以查看使用了当前技术的相关网站, 以vue为例
-> ![](https://upload-images.jianshu.io/upload_images/3203841-85b922da8371c86e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-> ![](https://upload-images.jianshu.io/upload_images/3203841-1b8de8780dc821a2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/2da4326622c444f785101f5d7380bb65.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/06aef35378524f74b8e0b3bad24b85f5.png)
 
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-0e0d239fe9842a85.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/5b556edb9a82463789e5f95caf3c024d.png)
 
 
 ## 小结:
@@ -35,6 +35,11 @@
 ## 插件下载地址:
 https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip
 
+## 对其它浏览器的支持
+
+| FireFox |
+| - |
+| [支持](https://www.whatruns.com/downloads/) | 
 ---
 
 ## 写在最后(我需要你的支持)

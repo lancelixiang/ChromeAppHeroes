@@ -1,57 +1,57 @@
 便签在办公室随处可见,给网页贴便签,你玩过么？
 
 **OurStickys是chrome的一款特色网页便签纸**
-> ![](https://upload-images.jianshu.io/upload_images/3203841-931347d5e55616c8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/a5a1d6083cbf4ea3afd3e5400b464295.png)
 
-## 基本操作: 
+## 基本操作:
 - 新建便签
-> ![](https://upload-images.jianshu.io/upload_images/3203841-e9369623bc459a9b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/0c826766ab114940a1558f0d16327fb2.png)
 - 开启便签设置
-> ![](https://upload-images.jianshu.io/upload_images/3203841-34bfd4da7c8281db.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/35a4e800d1224d2ba35dae01ca411a2d.png)
 
 
 
 ## 特色一: 可以特定的网址下,自动显示特定的便签
-> ![](https://upload-images.jianshu.io/upload_images/3203841-3ba65187b42824bb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/f1c86a0c59b449fdbcf6d3e0775ea188.png)
 
 
 ## 特色二: 刷剧神器, 可以把视频粘贴到便签, 结合特色一的功能, 可以随时查看多个在线视频
-> ![](https://upload-images.jianshu.io/upload_images/3203841-412686986c28aeb3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-> ![](https://upload-images.jianshu.io/upload_images/3203841-3131ce8eaeb03efa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-> ![](https://upload-images.jianshu.io/upload_images/3203841-f02eb16c89c20c1c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-> ![](https://upload-images.jianshu.io/upload_images/3203841-11ab575915d65c71.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/a126dc3294ee48c8b85db47622a54ea6.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/99155f15a5eb422c8da0541e0b79e2e1.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/a4bbfe88600a46469bdbed3e4f1cfeb6.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/d7635d3136464b519befe31f36e04fed.png)
 
-## 特色三: 可以将网页当做画板, 在任意位置贴标签 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-eaa92103cf9363af.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+## 特色三: 可以将网页当做画板, 在任意位置贴标签
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/084c2c05b5004f238821670c5aa97a59.png)
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-074fe1eee91a1399.gif?imageMogr2/auto-orient/strip)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/34f477991cca45528a66da7a9d596206.gif)
 
 
 
- 平时用到的便签功能,比如云端同步, 便签换颜色, 支持Todolist, 定时提醒,OurStickys都包含在内
+平时用到的便签功能,比如云端同步, 便签换颜色, 支持Todolist, 定时提醒,OurStickys都包含在内
 - 云端同步(支持facebook和google授权登录)
-> ![](https://upload-images.jianshu.io/upload_images/3203841-be0f78b06e1c93dd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/38bd23611d2e464798a046d31436dab2.png)
 
 
 
 - 便签换颜色, 颜色偏向浅色调, 给人打感受比较小清新
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-acef7bc99852cee0.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/a6a60d6d746d4df28a6d38fc4a985446.png)
 
 - 支持Todolist
-> ![](https://upload-images.jianshu.io/upload_images/3203841-f8e7ed23dbd3e33f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/1e8ddbc2f9e34efcbb736594925985ac.png)
 - 支持定期提醒, 产品功能比较克制, 只支持1天, 7天, 1个月的定时提醒
-> ![](https://upload-images.jianshu.io/upload_images/3203841-e3c7d7f9c7ceb7f5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-> 另外,  OurStickys支持json格式, 支持统一定位任意页面粘贴的标签, 支持一键隐藏所有标签, 支持为标签手动添加关键词索引等等
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/1bb2640ecfc145359be1d113686256b0.png)
+> 另外, OurStickys支持json格式, 支持统一定位任意页面粘贴的标签, 支持一键隐藏所有标签, 支持为标签手动添加关键词索引等等
 
 
 
 ## 小结:
 - 好的想法往往比技术更有价值, OurStickys的核心技术实现并不难, 巧妙的使用相对定位和绝对定位, 就能很快实现一些核心功能, 但能把整个应用做出来, 则需要好的想法
 
-- OurStickys是一款不错的标签应用, 特色功能很棒, 非特色的功能都不同程度的进行了重新设计, 不给用户太多的选择,  如果支持国内的站点授权登录, 或许可以吸引更多的国内用户.
+- OurStickys是一款不错的标签应用, 特色功能很棒, 非特色的功能都不同程度的进行了重新设计, 不给用户太多的选择, 如果支持国内的站点授权登录, 或许可以吸引更多的国内用户.
 
-## 插件下载地址: 
+## 插件下载地址:
 https://chrome.google.com/webstore/detail/ourstickys-sticky-notes-o/oficbemndigeiiennldcdfcklocpkggd
 
 ---

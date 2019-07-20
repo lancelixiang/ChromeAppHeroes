@@ -6,36 +6,35 @@ Boxel Rebound是一款和Google浏览器**断网小恐龙**类似的弹跳小游
 - 游戏免费，BGM带感，玩法多样
 ## 闯关模式玩法
 - 进入游戏
-> ![](https://upload-images.jianshu.io/upload_images/3203841-9ad89c3d04ba397d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/7f58e9ff05fa438db385f5a7aa311fb8.png)
 
 - 到达终点🏁区域后即可完成本局游戏
-> ![](https://upload-images.jianshu.io/upload_images/3203841-310b46036736220d.gif?imageMogr2/auto-orient/strip)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/8de478ef54914769b19a49607259cefd.gif)
 
 - 注意游戏中的方向箭头提示，有助于通关
-> ![](https://upload-images.jianshu.io/upload_images/3203841-36b22f7d02e13dcf.gif?imageMogr2/auto-orient/strip)
- 
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/59ed60632413452991e019d747eb7963.gif)
 - 玩家方块撞到特殊道具会改变体积
-> ![](https://upload-images.jianshu.io/upload_images/3203841-4098c90de5837d19.gif?imageMogr2/auto-orient/strip)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/7337377a15cc448288c8a9f1a9659af8.gif)
 
 - 玩家方块在下落期间，可不借助地面，完成弹跳（轻功？左脚蹬右脚？方块哪里来的左脚和右脚？）
-> ![](https://upload-images.jianshu.io/upload_images/3203841-f0d48f51bc41490d.gif?imageMogr2/auto-orient/strip)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/0e97454d61814081a5844607928980eb.gif)
 
 ## 自制赛道玩法
 - 先制作一个最简单的赛道
-> ![](https://upload-images.jianshu.io/upload_images/3203841-efa3a57a68c1ce0a.gif?imageMogr2/auto-orient/strip)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/c8ed89ec75a04f1cbc05dd3597154b0f.gif)
 - 道具说明
-> ![](https://upload-images.jianshu.io/upload_images/3203841-6440f63a6e748f69.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/d85d17a999604681ab28367cab3e2b89.png)
 
 
 - 通过道具完善后的的赛道(我自制的)
-> ![](https://upload-images.jianshu.io/upload_images/3203841-5412e91138fdb673.gif?imageMogr2/auto-orient/strip)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/680ad68a8b0941df865c5883e9dccdca.gif)
 
 ## 分享赛道
-> ![](https://upload-images.jianshu.io/upload_images/3203841-bc60efdbe6a5e098.gif?imageMogr2/auto-orient/strip)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/189f8811618e4275b689056527b7caa4.gif)
 > - 上图赛道分享号码(可以拿去玩)：#C445EC
 
 ## 获取他人分享的赛道
-> ![](https://upload-images.jianshu.io/upload_images/3203841-f7c94d41258b7c2a.gif?imageMogr2/auto-orient/strip)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/52db70aef1924462877b14fdafa8d23f.gif)
 
 
 

@@ -1,24 +1,24 @@
-> ![](https://upload-images.jianshu.io/upload_images/3203841-4e1150798181403f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/2bd23b3bf7d54d20b1dcfd987a0afadb.png)
 
 Text与普通的Chrome插件不同, 它是一个App, 安装Text后在Chrome地址栏键入`chrome://apps`即可找到(普通插件的查看方法是, 在地址栏键入`chrome://extensions/`)
 
 
 ## 打开本地代码并高亮显示
-> ![](https://upload-images.jianshu.io/upload_images/3203841-89d94e6a36422664.gif?imageMogr2/auto-orient/strip)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/d92eb32983dd49f4bb731cf8e850f3eb.gif)
 
 ## 自由切换编辑器主题
-> ![](https://upload-images.jianshu.io/upload_images/3203841-3a9536e56c7e50e2.gif?imageMogr2/auto-orient/strip)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/6d54060e9a0b465f84dea8464428276a.gif)
 
 ## 浮动于所有窗口上方
-> ![](https://upload-images.jianshu.io/upload_images/3203841-9a677971992ce28b.gif?imageMogr2/auto-orient/strip)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/73730c38b24b4a1c9beefd3cc6d15b78.gif)
 
 ## 新建文本文件, 并保存到本地
-> ![](https://upload-images.jianshu.io/upload_images/3203841-d8b6fad22f442d77.gif?imageMogr2/auto-orient/strip)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/fd1945a85e514b429e7cb5987a3651f1.gif)
 
 ## 相关设置说明
-> ![](https://upload-images.jianshu.io/upload_images/3203841-12a1c559efca1020.gif?imageMogr2/auto-orient/strip)
-> ![](https://upload-images.jianshu.io/upload_images/3203841-b38d7530aec964fb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-> ![](https://upload-images.jianshu.io/upload_images/3203841-86172251d9f29d46.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/66731af1a8674b88b10218d93ff6c2c5.gif)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/365af99793e84ba4bb55a73628319fd5.png)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/06120ad1cd8a4634b6eea8e801a6b6dc.png)
 
 
 

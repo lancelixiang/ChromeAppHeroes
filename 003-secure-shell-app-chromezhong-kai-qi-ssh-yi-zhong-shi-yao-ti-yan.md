@@ -10,18 +10,18 @@
 
 
 
-> ![](https://upload-images.jianshu.io/upload_images/3203841-c17bae0f1a577a8e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/c7d94a6e5fc346489514f20d4a73616f.png)
 
 ## 插件登录界面
-> ![](https://upload-images.jianshu.io/upload_images/3203841-ccfa31e6af6279ae.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/639a15198f6047638974b9c7470a0770.png)
 ## 插件操作界面
-> ![支持高亮](https://upload-images.jianshu.io/upload_images/3203841-698ae935d8bf4c94.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![支持高亮](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/2bb916abf8234c829f2b1bde03ec4398.png)
 
 ## 支持窗口多开
-> ![](https://upload-images.jianshu.io/upload_images/3203841-b65a4e685983e3e3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/070a384456fa4e22815bf5944d7a0b34.png)
 
 ## 支持界面自定义
-> ![](https://upload-images.jianshu.io/upload_images/3203841-1c2074771358952d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+> ![](https://raw.githubusercontent.com/zhaoolee/GraphBed/master/ChromeAppHeroes/ccc82a56ecf544f59b58ce99e71967cd.png)
 
 
 > 这个插件很早就有了, 早期不支持中文输入, 大家都没把它当回事儿, 最近开始支持中文, 而且google在积极维护它, 就说明这个插件还是有折腾一下的价值的, 另外在浏览器中使用ssh还是蛮酷的!!!
